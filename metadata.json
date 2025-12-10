@@ -1,0 +1,5 @@
+{
+  "name": "Student ID Card Generator",
+  "description": "A web-based tool to create, preview, and download professional student ID cards. Users can enter student details, upload photos and logos, and generate a print-ready ID card as a PNG or PDF, with all processing done client-side for privacy.",
+  "requestFramePermissions": []
+}
